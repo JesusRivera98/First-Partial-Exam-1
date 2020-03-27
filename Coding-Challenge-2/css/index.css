@@ -13,4 +13,24 @@ div{
     display: flex;
     flex-direction: column;
 }
+@media (max-width : 599px){
+    .heading-box{
+        display: none;
+    }
+    .content{
+        display: none;
+    }
+    .nav-box{
+        display: flex;
+        flex-direction: row;
+        align-self: center;
+        justify-content: right;
+    }
+    
+}
+@media (min-width : 600px) and (max-width : 990px){
 
+}
+@media (min-width : 991px){
+    
+}
