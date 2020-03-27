@@ -5,3 +5,12 @@ div{
     padding: 5px;
 }
 
+/*.side-box{
+    display: flexbox;
+    flex-direction: ;
+}*/
+.nav-box{
+    display: flex;
+    flex-direction: column;
+}
+
